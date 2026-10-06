@@ -23,7 +23,7 @@
 <h2>📦 Installation</h2>
 <ol>
   <li>Cloner ce dépôt :
-    <pre><code>git clone https://github.com/Essouiriaya/PomoNoteApp.git</code></pre>
+    <pre><code>git clone https://github.com/MalekZitouni/PomoNoteApp.git</code></pre>
   </li>
   <li>Lancer XAMPP et démarrer <strong>Apache</strong> et <strong>MySQL</strong>.</li>
   <li>Créer une base de données nommée <code>projectpy_db</code> dans <code>phpMyAdmin</code>.</li>
@@ -33,5 +33,5 @@
 
 <h2>👨‍💻 Auteur</h2>
 <p>
-  Développé par <strong>Essouiri Aya</strong> – Étudiant passionné par la transformation digitale et les applications web intelligentes.
+  Développé par <strong>Malek Zitouni</strong> – Étudiant passionné par la transformation digitale et les applications web intelligentes.
 </p>
