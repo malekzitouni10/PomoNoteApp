@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>📝 PomoNote</h1>
 
 <p>
@@ -33,5 +34,8 @@
 
 <h2>👨‍💻 Auteur</h2>
 <p>
-  Développé par <strong>Malek Zitouni</strong> – Étudiant passionné par la transformation digitale et les applications web intelligentes.
+  Développé par <strong>Malek Zitouni</strong> – passionné par la transformation digitale et les applications web intelligentes.
 </p>
+=======
+# PomoNoteApp
+>>>>>>> ccce592f79040d6bc2a913881bb7e11f4f84ac3a
